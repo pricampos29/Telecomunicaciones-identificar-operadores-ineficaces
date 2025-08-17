@@ -42,6 +42,9 @@ La mayoría de las interacciones se realizan fuera de la red interna.
 **🔹 Operadores con más llamadas perdidas:**  
 El operador con ID `891410` lidera en llamadas fallidas (~120), seguido por `885876` y `891414`, lo que indica diferencias claras en eficiencia.
 
+## 📊 Dashboard Interactivo
+Explora el dashboard completo aquí 👉 [Ver Dashboard]([https://public.tableau.com/views/tu_dashboard_id](https://public.tableau.com/app/profile/priscila.campos.gonz.lez/viz/Book1_17457832031900/Dashboard2))
+
 ## 📊 Pruebas Estadísticas  
 **Chi-cuadrado:**  
 - Estadístico: 346.98  
