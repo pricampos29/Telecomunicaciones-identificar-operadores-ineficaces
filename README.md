@@ -69,4 +69,5 @@ Incentivar uso de servicios adicionales y ajustar estrategias de retención.
 **3. Fortalecimiento de infraestructura interna:**  
 Rediseñar flujos de atención y mejorar gestión de llamadas internas.
 
+## 🌟 Aclaraciones  
 Este proyecto incluye comentarios de revisión realizados por tutores y revisores durante mi formación como analista de datos. Fueron fundamentales para refinar tanto el enfoque analítico como la interpretación de resultados.
