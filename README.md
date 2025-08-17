@@ -33,14 +33,17 @@ Clientes corporativos que gestionan llamadas entrantes, salientes e internas a t
 
 **🔹 Distribución de duración de llamadas:**  
 La mayoría de las llamadas duran menos de 20,000 segundos. A medida que la duración aumenta, la frecuencia disminuye drásticamente.
+download.png
 
 **🔹 Llamadas internas vs externas:**  
 - Internas: 12.8%  
 - Externas: 87.2%  
 La mayoría de las interacciones se realizan fuera de la red interna.
+download (1).png
 
 **🔹 Operadores con más llamadas perdidas:**  
 El operador con ID `891410` lidera en llamadas fallidas (~120), seguido por `885876` y `891414`, lo que indica diferencias claras en eficiencia.
+download (2).png
 
 ## 📊 Dashboard Interactivo
 Explora el dashboard completo aquí 👉 ([https://public.tableau.com/views/tu_dashboard_id](https://public.tableau.com/app/profile/priscila.campos.gonz.lez/viz/Book1_17457832031900/Dashboard2))
